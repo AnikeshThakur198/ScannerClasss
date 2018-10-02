@@ -5,4 +5,4 @@ Well Scanner class have many methods but these two are like magical methods for 
     advantage that it skips the string that get created
     by pressing the enter key.
     -The next one is .nextLine() which reads the whole 
-    line but also consider the enter key as astring..
+    line but also consider the enter key as a string..
